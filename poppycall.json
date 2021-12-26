@@ -5,11 +5,11 @@
           "ad_admob_native" : "ca-app-pub-3940256099942544/1033173712",
           "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712",
           "ad_admob_rewarded" : "ca-app-pub-3940256099942544/1033173712",
-          "nameSr" : "Poppy",
-          "pictureSr" : "https://i.ytimg.com/vi/RKQGRPoDV_I/maxresdefault.jpg",
-          "voiceSr" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "videoSr" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "storiesStr" : "https://images.wallpapersden.com/image/download/netflix-squid-game_bG5raW6UmZqaraWkpJRmaWllrWdua2U.jpg;ad;https://cdn.mos.cms.futurecdn.net/omQp3D6tbkLxh2BDNKDLxU-1280-80.jpg.webp;https://i.pinimg.com/736x/06/06/32/0606325200df3ccca5e41dbe480805c5.jpg;https://media.glamour.de/glamour/-lCxw_bmUNZYVQ/c_limit,w_1200,h_1800,q_80/2021/10/squidgame-hoch-jpg-6156cb0c168c7.jpg;ad;https://i.pinimg.com/564x/db/95/98/db959820c5475d63a97d5faddbdfe87c.jpg",
+          "name" : "Poppy",
+          "picture" : "https://i.ytimg.com/vi/RKQGRPoDV_I/maxresdefault.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "stories" : "https://images.wallpapersden.com/image/download/netflix-squid-game_bG5raW6UmZqaraWkpJRmaWllrWdua2U.jpg;ad;https://cdn.mos.cms.futurecdn.net/omQp3D6tbkLxh2BDNKDLxU-1280-80.jpg.webp;https://i.pinimg.com/736x/06/06/32/0606325200df3ccca5e41dbe480805c5.jpg;https://media.glamour.de/glamour/-lCxw_bmUNZYVQ/c_limit,w_1200,h_1800,q_80/2021/10/squidgame-hoch-jpg-6156cb0c168c7.jpg;ad;https://i.pinimg.com/564x/db/95/98/db959820c5475d63a97d5faddbdfe87c.jpg"
         }
     ]
 }
